@@ -5,8 +5,8 @@
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/___mohiuddin__)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/kmmohiuddin.4)
 
-:wave: Hi, My name is K.M.Mohiuddin. I'm 21 years old, Self-taught, Software engineering undergrad currently living in Dhaka, 🇧🇩. I love to do problem solving.
-- 🔭 I’m currently working on React,Data Science
+:wave: Hi, My name is K.M.Mohiuddin. Self-taught, Software engineering undergrad currently living in Dhaka, 🇧🇩. I love to do problem solving and data science releted task.
+
 
 ## {...} My Stack
 
