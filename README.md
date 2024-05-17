@@ -5,8 +5,7 @@
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/___mohiuddin__)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/kmmohiuddin.4)
 
-:wave: Hi, My name is K.M.Mohiuddin. Self-taught, Software engineering undergrad currently living in Dhaka, 🇧🇩. I love to do problem solving and data science releted task.
-
+:wave: Hi, My name is K.M.Mohiuddin. Self-taught, and dedicated to leveraging my robust analytical capabilities and leadership acumen to steer organizational growth and success. I aim to adeptly navigate complex challenges, decode intricate data landscapes, and deliver impactful results within defined timelines. Committed to perpetual learning and professional development, I am keen to stay abreast of industry trends and foster seamless collaboration, communication, and alignment to drive the company toward its strategic goals.
 
 ## {...} My Stack
 
